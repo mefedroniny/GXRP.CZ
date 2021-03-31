@@ -11,7 +11,6 @@ s
 op
 saddcc
 zdarr
-brh 
-s
+brh kkkk
 x
 x
